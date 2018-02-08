@@ -1,0 +1,34 @@
+{
+  "name": "imooc",
+  "version": "0.0.1",
+  "description": "build a web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.2",
+    "grunt": "^1.0.2",
+    "jade": "^1.11.0",
+    "jquery": "^1.9.1",
+    "mongoose": "^5.0.3",
+    "nodemon": "^1.14.12",
+    "popper.js": "^1.12.9",
+    "pug": "^2.0.0-rc.4",
+    "serve-static": "^1.13.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-nodemon": "^0.5.4",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "keywords": [
+    "i",
+    "mooc"
+  ]
+}

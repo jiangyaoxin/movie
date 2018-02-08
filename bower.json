@@ -1,0 +1,25 @@
+{
+  "name": "imooc",
+  "description": "i mooc movie",
+  "main": "app.js",
+  "authors": [
+    "jiang"
+  ],
+  "license": "MI T",
+  "keywords": [
+    "i",
+    "mooc"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
